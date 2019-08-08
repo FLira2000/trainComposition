@@ -1,0 +1,6 @@
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\trainComposition\obj\Debug\trainComposition.csprojResolveAssemblyReference.cache
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\trainComposition\bin\Debug\trainComposition.exe.config
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\trainComposition\bin\Debug\trainComposition.exe
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\trainComposition\bin\Debug\trainComposition.pdb
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\trainComposition\obj\Debug\trainComposition.exe
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\trainComposition\obj\Debug\trainComposition.pdb
