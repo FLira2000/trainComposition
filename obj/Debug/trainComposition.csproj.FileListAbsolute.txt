@@ -4,3 +4,4 @@ C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\trainCom
 C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\trainComposition\bin\Debug\trainComposition.pdb
 C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\trainComposition\obj\Debug\trainComposition.exe
 C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\trainComposition\obj\Debug\trainComposition.pdb
+C:\Users\fabop\Desktop\Vara de Pesca\desenvolvimento\desafiosSysManager\trainComposition\bin\Debug\NUnit.Framework.dll

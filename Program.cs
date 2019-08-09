@@ -23,7 +23,7 @@ namespace trainComposition
 			return train;
 		}
 		
-		public void queueWagon(int hierarchy, Queue train){
+		public void enqueueWagon(int hierarchy, Queue train){
 			train.Enqueue(newWagon(hierarchy));
 		}
 		
@@ -39,8 +39,8 @@ namespace trainComposition
 		{	
 			Train tr = new Train();
 			var train = tr.newTrain();
-			tr.queueWagon(7, train);
-			tr.queueWagon(10, train);
+			tr.enqueueWagon(7, train);
+			tr.enqueueWagon(10, train);
 			for(int i = 0; i < tr.count; i++){
 				Console.WriteLine("{0}º vagão a sair: {1}; ", i+1, tr.dequeueWagon(train));
 			}
